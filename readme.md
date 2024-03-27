@@ -1,4 +1,4 @@
-# MLOps - Quantum Finance
+# MLOps - Quantum Finance Case
 
 A Startup QuantumFinance é uma Fintech que está entrando no mercado para competir com grandes players da área.
 
